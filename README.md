@@ -1,4 +1,4 @@
 # js-tranforms
 Codemods for learning jscodeshift
 
-A collection of jscodeshift codemods that i've created for learning and refactoring purposes
+A collection of jscodeshift codemods created for learning and refactoring purposes
